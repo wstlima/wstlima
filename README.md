@@ -263,22 +263,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wstlima&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wstlima&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2&custom_title=Mais%20Usadas" height="160" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=wstlima&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=wstlima&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wstlima&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false&order=2&custom_title=Mais%20Usadas" height="155" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=wstlima&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=wstlima&theme=default&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wstlima/wstlima/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wstlima/wstlima/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wstlima/wstlima/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wstlima/wstlima/refs/heads/main/output/pacman-contributions.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wstlima/wstlima/refs/heads/main/output/pacman-contributions.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wstlima/wstlima/refs/heads/main/output/pacman-contributions.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/wstlima/wstlima/output/snake.svg" alt="Snake animation" />
 
 ###
